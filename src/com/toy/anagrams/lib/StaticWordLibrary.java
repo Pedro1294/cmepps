@@ -69,7 +69,7 @@ final class StaticWordLibrary extends WordLibrary {
         "patrick",
         "desoxidar",
         "polimórfico",
-        "Rigurosamente",
+        "rigurosamente",
         "simultaneamente",
         "especificación",
         "estructura",
